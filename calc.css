@@ -1,0 +1,9 @@
+#body {
+	width: 50em;
+	max-width: calc(100% - 5em);
+	margin: auto;
+	padding: 2em;
+	margin-bottom: 2em;
+	background-color: #ccc;
+	overflow: auto;
+}
